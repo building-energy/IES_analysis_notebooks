@@ -1,0 +1,1186 @@
+<?xml version="1.0"?>
+<Currencies Version="1">
+	<Currency>
+		<Code>XUA</Code>
+		<Name>ADB Unit of Account</Name>
+		<Location>African Development Bank</Location>
+		<Symbol>XUA</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>AFN</Code>
+		<Name>Afghan afghani</Name>
+		<Location>Afghanistan</Location>
+		<Symbol>AFN</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>ALL</Code>
+		<Name>Albanian lek</Name>
+		<Location>Albania</Location>
+		<Symbol>L</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>DZD</Code>
+		<Name>Algerian dinar</Name>
+		<Location>Algeria</Location>
+		<Symbol>DZD</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>AOA</Code>
+		<Name>Angolan kwanza</Name>
+		<Location>Angola</Location>
+		<Symbol>Kz</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>ARS</Code>
+		<Name>Argentine peso</Name>
+		<Location>Argentina</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>AMD</Code>
+		<Name>Armenian dram</Name>
+		<Location>Armenia</Location>
+		<Symbol>AMD</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>AWG</Code>
+		<Name>Aruban florin</Name>
+		<Location>Aruba</Location>
+		<Symbol>ƒ</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>AUD</Code>
+		<Name>Australian dollar</Name>
+		<Location>Australia, Christmas Island (CX), Cocos (Keeling) Islands (CC), Heard Island and McDonald Islands (HM), Kiribati (KI), Nauru (NR), Norfolk Island (NF), Tuvalu (TV), Australian Antarctic Territory</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>AZN</Code>
+		<Name>Azerbaijani manat</Name>
+		<Location>Azerbaijan</Location>
+		<Symbol>AZN</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BSD</Code>
+		<Name>Bahamian dollar</Name>
+		<Location>Bahamas</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BHD</Code>
+		<Name>Bahraini dinar</Name>
+		<Location>Bahrain</Location>
+		<Symbol>BHD</Symbol>
+		<NumberToBasic>1000</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BDT</Code>
+		<Name>Bangladeshi taka</Name>
+		<Location>Bangladesh</Location>
+		<Symbol>BDT</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BBD</Code>
+		<Name>Barbados dollar</Name>
+		<Location>Barbados</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BYN</Code>
+		<Name>Belarusian ruble</Name>
+		<Location>Belarus</Location>
+		<Symbol>BYN</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BYR</Code>
+		<Name>Belarusian ruble</Name>
+		<Location>Belarus</Location>
+		<Symbol>Br</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BZD</Code>
+		<Name>Belize dollar</Name>
+		<Location>Belize</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BMD</Code>
+		<Name>Bermudian dollar</Name>
+		<Location>Bermuda</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BTN</Code>
+		<Name>Bhutanese ngultrum</Name>
+		<Location>Bhutan</Location>
+		<Symbol>Nu.</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BOV</Code>
+		<Name>Bolivian Mvdol (funds code)</Name>
+		<Location>Bolivia</Location>
+		<Symbol>BOV</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BOB</Code>
+		<Name>Boliviano</Name>
+		<Location>Bolivia</Location>
+		<Symbol>Bs.</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BAM</Code>
+		<Name>Bosnia and Herzegovina convertible mark</Name>
+		<Location>Bosnia and Herzegovina</Location>
+		<Symbol>KM</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BWP</Code>
+		<Name>Botswana pula</Name>
+		<Location>Botswana</Location>
+		<Symbol>P</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BRL</Code>
+		<Name>Brazilian real</Name>
+		<Location>Brazil</Location>
+		<Symbol>R$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BND</Code>
+		<Name>Brunei dollar</Name>
+		<Location>Brunei, auxiliary in Singapore (SG)</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BGN</Code>
+		<Name>Bulgarian lev</Name>
+		<Location>Bulgaria</Location>
+		<Symbol>BGN</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>BIF</Code>
+		<Name>Burundian franc</Name>
+		<Location>Burundi</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>KHR</Code>
+		<Name>Cambodian riel</Name>
+		<Location>Cambodia</Location>
+		<Symbol>KHR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CAD</Code>
+		<Name>Canadian dollar</Name>
+		<Location>Canada</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CVE</Code>
+		<Name>Cape Verde escudo</Name>
+		<Location>Cape Verde</Location>
+		<Symbol>Esc</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>KYD</Code>
+		<Name>Cayman Islands dollar</Name>
+		<Location>Cayman Islands</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>XOF</Code>
+		<Name>CFA franc BCEAO</Name>
+		<Location>Benin (BJ), Burkina Faso (BF), Côte d'Ivoire (CI), Guinea-Bissau (GW), Mali (ML), Niger (NE), Senegal (SN), Togo (TG)</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>XAF</Code>
+		<Name>CFA franc BEAC</Name>
+		<Location>Cameroon (CM), Central African Republic (CF), Republic of the Congo (CG), Chad (TD), Equatorial Guinea (GQ), Gabon (GA)</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>XPF</Code>
+		<Name>CFP franc (franc Pacifique)</Name>
+		<Location>French territories of the Pacific Ocean: French Polynesia (PF), New Caledonia (NC), Wallis and Futuna (WF)</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CLP</Code>
+		<Name>Chilean peso</Name>
+		<Location>Chile</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CNY</Code>
+		<Name>Chinese yuan</Name>
+		<Location>China</Location>
+		<Symbol>¥</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>COP</Code>
+		<Name>Colombian peso</Name>
+		<Location>Colombia</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>KMF</Code>
+		<Name>Comoro franc</Name>
+		<Location>Comoros</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CDF</Code>
+		<Name>Congolese franc</Name>
+		<Location>Democratic Republic of the Congo</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CRC</Code>
+		<Name>Costa Rican colon</Name>
+		<Location>Costa Rica</Location>
+		<Symbol>CRC</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>HRK</Code>
+		<Name>Croatian kuna</Name>
+		<Location>Croatia</Location>
+		<Symbol>kn</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CUC</Code>
+		<Name>Cuban convertible peso</Name>
+		<Location>Cuba</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CUP</Code>
+		<Name>Cuban peso</Name>
+		<Location>Cuba</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CZK</Code>
+		<Name>Czech koruna</Name>
+		<Location>Czech Republic</Location>
+		<Symbol>Kc</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>DKK</Code>
+		<Name>Danish krone</Name>
+		<Location>Denmark, Faroe Islands (FO), Greenland (GL)</Location>
+		<Symbol>kr</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>DJF</Code>
+		<Name>Djiboutian franc</Name>
+		<Location>Djibouti</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>DOP</Code>
+		<Name>Dominican peso</Name>
+		<Location>Dominican Republic</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>XCD</Code>
+		<Name>East Caribbean dollar</Name>
+		<Location>Anguilla (AI), Antigua and Barbuda (AG), Dominica (DM), Grenada (GD), Montserrat (MS), Saint Kitts and Nevis (KN), Saint Lucia (LC), Saint Vincent and the Grenadines (VC)</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>EGP</Code>
+		<Name>Egyptian pound</Name>
+		<Location>Egypt, auxiliary in Gaza Strip</Location>
+		<Symbol>£</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>ERN</Code>
+		<Name>Eritrean nakfa</Name>
+		<Location>Eritrea</Location>
+		<Symbol>Nfk</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>ETB</Code>
+		<Name>Ethiopian birr</Name>
+		<Location>Ethiopia</Location>
+		<Symbol>Br</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>EUR</Code>
+		<Name>Euro</Name>
+		<Location>Akrotiri and Dhekelia, Andorra (AD), Austria (AT), Belgium (BE), Cyprus (CY), Estonia (EE), Finland (FI), France (FR), Germany (DE), Greece (GR), Guadeloupe (GP), Ireland (IE), Italy (IT), Kosovo, Latvia (LV), Lithuania (LT), Luxembourg (LU), Malta (MT), Martinique (MQ), Mayotte (YT), Monaco (MC), Montenegro (ME), Netherlands (NL), Portugal (PT), Réunion (RE), Saint Barthélemy (BL), Saint Pierre and Miquelon (PM), San Marino (SM), Slovakia (SK), Slovenia (SI), Spain (ES), Vatican City (VA)</Location>
+		<Symbol>€</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>FKP</Code>
+		<Name>Falkland Islands pound</Name>
+		<Location>Falkland Islands (pegged to GBP 1:1)</Location>
+		<Symbol>£</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>FJD</Code>
+		<Name>Fiji dollar</Name>
+		<Location>Fiji</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>GMD</Code>
+		<Name>Gambian dalasi</Name>
+		<Location>Gambia</Location>
+		<Symbol>D</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>GEL</Code>
+		<Name>Georgian lari</Name>
+		<Location>Georgia (except Abkhazia (GE-AB) and South Ossetia)</Location>
+		<Symbol>GEL</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>GHS</Code>
+		<Name>Ghanaian cedi</Name>
+		<Location>Ghana</Location>
+		<Symbol>GHS</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>GIP</Code>
+		<Name>Gibraltar pound</Name>
+		<Location>Gibraltar (pegged to GBP 1:1)</Location>
+		<Symbol>£</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>GTQ</Code>
+		<Name>Guatemalan quetzal</Name>
+		<Location>Guatemala</Location>
+		<Symbol>Q</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>GNF</Code>
+		<Name>Guinean franc</Name>
+		<Location>Guinea</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>GYD</Code>
+		<Name>Guyanese dollar</Name>
+		<Location>Guyana</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>HTG</Code>
+		<Name>Haitian gourde</Name>
+		<Location>Haiti</Location>
+		<Symbol>G</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>HNL</Code>
+		<Name>Honduran lempira</Name>
+		<Location>Honduras</Location>
+		<Symbol>L</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>HKD</Code>
+		<Name>Hong Kong dollar</Name>
+		<Location>Hong Kong, Macao (MO)</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>HUF</Code>
+		<Name>Hungarian forint</Name>
+		<Location>Hungary</Location>
+		<Symbol>Ft</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>ISK</Code>
+		<Name>Icelandic króna</Name>
+		<Location>Iceland</Location>
+		<Symbol>kr</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>INR</Code>
+		<Name>Indian rupee</Name>
+		<Location>India, Bhutan, Nepal, Zimbabwe</Location>
+		<Symbol>INR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>IDR</Code>
+		<Name>Indonesian rupiah</Name>
+		<Location>Indonesia</Location>
+		<Symbol>Rp</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>IRR</Code>
+		<Name>Iranian rial</Name>
+		<Location>Iran</Location>
+		<Symbol>IRR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>IQD</Code>
+		<Name>Iraqi dinar</Name>
+		<Location>Iraq</Location>
+		<Symbol>IQD</Symbol>
+		<NumberToBasic>1000</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>ILS</Code>
+		<Name>Israeli new shekel</Name>
+		<Location>Israel, State of Palestine (PS)</Location>
+		<Symbol>ILS</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>JMD</Code>
+		<Name>Jamaican dollar</Name>
+		<Location>Jamaica</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>JPY</Code>
+		<Name>Japanese yen</Name>
+		<Location>Japan</Location>
+		<Symbol>¥</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>JOD</Code>
+		<Name>Jordanian dinar</Name>
+		<Location>Jordan, auxiliary in West Bank</Location>
+		<Symbol>JOD</Symbol>
+		<NumberToBasic>1000</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>KZT</Code>
+		<Name>Kazakhstani tenge</Name>
+		<Location>Kazakhstan</Location>
+		<Symbol>KZT</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>KES</Code>
+		<Name>Kenyan shilling</Name>
+		<Location>Kenya</Location>
+		<Symbol>Sh</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>KWD</Code>
+		<Name>Kuwaiti dinar</Name>
+		<Location>Kuwait</Location>
+		<Symbol>KWD</Symbol>
+		<NumberToBasic>1000</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>KGS</Code>
+		<Name>Kyrgyzstani som</Name>
+		<Location>Kyrgyzstan</Location>
+		<Symbol>KGS</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>LAK</Code>
+		<Name>Lao kip</Name>
+		<Location>Laos</Location>
+		<Symbol>LAK</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>LBP</Code>
+		<Name>Lebanese pound</Name>
+		<Location>Lebanon</Location>
+		<Symbol>LBP</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>LSL</Code>
+		<Name>Lesotho loti</Name>
+		<Location>Lesotho</Location>
+		<Symbol>L</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>LRD</Code>
+		<Name>Liberian dollar</Name>
+		<Location>Liberia</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>LYD</Code>
+		<Name>Libyan dinar</Name>
+		<Location>Libya</Location>
+		<Symbol>LYD</Symbol>
+		<NumberToBasic>1000</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MOP</Code>
+		<Name>Macanese pataca</Name>
+		<Location>Macao</Location>
+		<Symbol>P</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MKD</Code>
+		<Name>Macedonian denar</Name>
+		<Location>Macedonia</Location>
+		<Symbol>MKD</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MGA</Code>
+		<Name>Malagasy ariary</Name>
+		<Location>Madagascar</Location>
+		<Symbol>Ar</Symbol>
+		<NumberToBasic>5</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MWK</Code>
+		<Name>Malawian kwacha</Name>
+		<Location>Malawi</Location>
+		<Symbol>MK</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MYR</Code>
+		<Name>Malaysian ringgit</Name>
+		<Location>Malaysia</Location>
+		<Symbol>RM</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MVR</Code>
+		<Name>Maldivian rufiyaa</Name>
+		<Location>Maldives</Location>
+		<Symbol>MVR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MRO</Code>
+		<Name>Mauritanian ouguiya</Name>
+		<Location>Mauritania</Location>
+		<Symbol>UM</Symbol>
+		<NumberToBasic>5</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MUR</Code>
+		<Name>Mauritian rupee</Name>
+		<Location>Mauritius</Location>
+		<Symbol>MUR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MXN</Code>
+		<Name>Mexican peso</Name>
+		<Location>Mexico</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MXV</Code>
+		<Name>Mexican Unidad de Inversion (UDI) (funds code)</Name>
+		<Location>Mexico</Location>
+		<Symbol>MXV</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MDL</Code>
+		<Name>Moldovan leu</Name>
+		<Location>Moldova (except Transnistria)</Location>
+		<Symbol>L</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MNT</Code>
+		<Name>Mongolian tugrik</Name>
+		<Location>Mongolia</Location>
+		<Symbol>MNT</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MAD</Code>
+		<Name>Moroccan dirham</Name>
+		<Location>Morocco</Location>
+		<Symbol>MAD</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MZN</Code>
+		<Name>Mozambican metical</Name>
+		<Location>Mozambique</Location>
+		<Symbol>MT</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>MMK</Code>
+		<Name>Myanmar kyat</Name>
+		<Location>Myanmar</Location>
+		<Symbol>Ks</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>NAD</Code>
+		<Name>Namibian dollar</Name>
+		<Location>Namibia</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>NPR</Code>
+		<Name>Nepalese rupee</Name>
+		<Location>Nepal</Location>
+		<Symbol>NPR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>ANG</Code>
+		<Name>Netherlands Antillean guilder</Name>
+		<Location>Curaçao (CW), Sint Maarten (SX)</Location>
+		<Symbol>ƒ</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>TWD</Code>
+		<Name>New Taiwan dollar</Name>
+		<Location>Taiwan</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>NZD</Code>
+		<Name>New Zealand dollar</Name>
+		<Location>New Zealand, Cook Islands (CK), Niue (NU), Pitcairn Islands (PN), Tokelau (TK), Ross Dependency</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>NIO</Code>
+		<Name>Nicaraguan córdoba</Name>
+		<Location>Nicaragua</Location>
+		<Symbol>C$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>NGN</Code>
+		<Name>Nigerian naira</Name>
+		<Location>Nigeria</Location>
+		<Symbol>NGN</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>KPW</Code>
+		<Name>North Korean won</Name>
+		<Location>North Korea</Location>
+		<Symbol>KPW</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>NOK</Code>
+		<Name>Norwegian krone</Name>
+		<Location>Norway, Svalbard and Jan Mayen (SJ), Bouvet Island (BV), Queen Maud Land, Peter I Island</Location>
+		<Symbol>kr</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>OMR</Code>
+		<Name>Omani rial</Name>
+		<Location>Oman</Location>
+		<Symbol>OMR</Symbol>
+		<NumberToBasic>1000</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>PKR</Code>
+		<Name>Pakistani rupee</Name>
+		<Location>Pakistan</Location>
+		<Symbol>PKR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>PAB</Code>
+		<Name>Panamanian balboa</Name>
+		<Location>Panama</Location>
+		<Symbol>B/.</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>PGK</Code>
+		<Name>Papua New Guinean kina</Name>
+		<Location>Papua New Guinea</Location>
+		<Symbol>K</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>PYG</Code>
+		<Name>Paraguayan guaraní</Name>
+		<Location>Paraguay</Location>
+		<Symbol>PYG</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>PEN</Code>
+		<Name>Peruvian nuevo sol</Name>
+		<Location>Peru</Location>
+		<Symbol>S/.</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>PHP</Code>
+		<Name>Philippine peso</Name>
+		<Location>Philippines</Location>
+		<Symbol>PHP</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>PLN</Code>
+		<Name>Polish zloty</Name>
+		<Location>Poland</Location>
+		<Symbol>zl</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>GBP</Code>
+		<Name>Pound sterling</Name>
+		<Location>United Kingdom, the Isle of Man (IM), Jersey (JE), Guernsey (GG), South Georgia and the South Sandwich Islands (GS), British Indian Ocean Territory (IO) (also uses USD), Tristan da Cunha (SH-TA) and British Antarctic Territory</Location>
+		<Symbol>£</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>QAR</Code>
+		<Name>Qatari riyal</Name>
+		<Location>Qatar</Location>
+		<Symbol>QAR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>RON</Code>
+		<Name>Romanian leu</Name>
+		<Location>Romania</Location>
+		<Symbol>lei</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>RUB</Code>
+		<Name>Russian ruble</Name>
+		<Location>Russia, Abkhazia (GE-AB), South Ossetia, Crimea</Location>
+		<Symbol>RUB</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>RWF</Code>
+		<Name>Rwandan franc</Name>
+		<Location>Rwanda</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SHP</Code>
+		<Name>Saint Helena pound</Name>
+		<Location>Saint Helena (SH-SH), Ascension Island (SH-AC) (pegged to GBP 1:1)</Location>
+		<Symbol>£</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>WST</Code>
+		<Name>Samoan tala</Name>
+		<Location>Samoa</Location>
+		<Symbol>T</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SAR</Code>
+		<Name>Saudi riyal</Name>
+		<Location>Saudi Arabia</Location>
+		<Symbol>SAR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>RSD</Code>
+		<Name>Serbian dinar</Name>
+		<Location>Serbia</Location>
+		<Symbol>din</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SCR</Code>
+		<Name>Seychelles rupee</Name>
+		<Location>Seychelles</Location>
+		<Symbol>SCR</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SLL</Code>
+		<Name>Sierra Leonean leone</Name>
+		<Location>Sierra Leone</Location>
+		<Symbol>Le</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SGD</Code>
+		<Name>Singapore dollar</Name>
+		<Location>Singapore, auxiliary in Brunei (BN)</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SBD</Code>
+		<Name>Solomon Islands dollar</Name>
+		<Location>Solomon Islands</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SOS</Code>
+		<Name>Somali shilling</Name>
+		<Location>Somalia (except Somaliland)</Location>
+		<Symbol>Sh</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>ZAR</Code>
+		<Name>South African rand</Name>
+		<Location>South Africa</Location>
+		<Symbol>R</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>KRW</Code>
+		<Name>South Korean won</Name>
+		<Location>South Korea</Location>
+		<Symbol>KRW</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SSP</Code>
+		<Name>South Sudanese pound</Name>
+		<Location>South Sudan</Location>
+		<Symbol>£</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>XDR</Code>
+		<Name>Special drawing rights</Name>
+		<Location>International Monetary Fund</Location>
+		<Symbol>XDR</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>LKR</Code>
+		<Name>Sri Lankan rupee</Name>
+		<Location>Sri Lanka</Location>
+		<Symbol>Rs</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>XSU</Code>
+		<Name>SUCRE</Name>
+		<Location>Unified System for Regional Compensation (SUCRE)</Location>
+		<Symbol>XSU</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SDG</Code>
+		<Name>Sudanese pound</Name>
+		<Location>Sudan</Location>
+		<Symbol>SDG</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SRD</Code>
+		<Name>Surinamese dollar</Name>
+		<Location>Suriname</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SZL</Code>
+		<Name>Swazi lilangeni</Name>
+		<Location>Swaziland</Location>
+		<Symbol>L</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SEK</Code>
+		<Name>Swedish krona/kronor</Name>
+		<Location>Sweden</Location>
+		<Symbol>kr</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CHF</Code>
+		<Name>Swiss franc</Name>
+		<Location>Switzerland, Liechtenstein (LI)</Location>
+		<Symbol>Fr</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>SYP</Code>
+		<Name>Syrian pound</Name>
+		<Location>Syria</Location>
+		<Symbol>£</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>STD</Code>
+		<Name>São Tomé and Príncipe dobra</Name>
+		<Location>São Tomé and Príncipe</Location>
+		<Symbol>Db</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>TJS</Code>
+		<Name>Tajikistani somoni</Name>
+		<Location>Tajikistan</Location>
+		<Symbol>SM</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>TZS</Code>
+		<Name>Tanzanian shilling</Name>
+		<Location>Tanzania</Location>
+		<Symbol>Sh</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>THB</Code>
+		<Name>Thai baht</Name>
+		<Location>Thailand, Cambodia, Myanmar, Laos</Location>
+		<Symbol>THB</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>TOP</Code>
+		<Name>Tongan pa'anga</Name>
+		<Location>Tonga</Location>
+		<Symbol>T$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>TTD</Code>
+		<Name>Trinidad and Tobago dollar</Name>
+		<Location>Trinidad and Tobago</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>TND</Code>
+		<Name>Tunisian dinar</Name>
+		<Location>Tunisia</Location>
+		<Symbol>TND</Symbol>
+		<NumberToBasic>1000</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>TRY</Code>
+		<Name>Turkish lira</Name>
+		<Location>Turkey, Northern Cyprus</Location>
+		<Symbol>UZS</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>TMT</Code>
+		<Name>Turkmenistani manat</Name>
+		<Location>Turkmenistan</Location>
+		<Symbol>m</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>UGX</Code>
+		<Name>Ugandan shilling</Name>
+		<Location>Uganda</Location>
+		<Symbol>Sh</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>XFU</Code>
+		<Name>UIC franc (special settlement currency)</Name>
+		<Location>International Union of Railways</Location>
+		<Symbol>XFU</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>UAH</Code>
+		<Name>Ukrainian hryvnia</Name>
+		<Location>Ukraine</Location>
+		<Symbol>UAH</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CLF</Code>
+		<Name>Unidad de Fomento (funds code)</Name>
+		<Location>Chile</Location>
+		<Symbol>CLF</Symbol>
+		<NumberToBasic>10000</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>COU</Code>
+		<Name>Unidad de Valor Real (UVR) (funds code)</Name>
+		<Location>Colombia</Location>
+		<Symbol>COU</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>AED</Code>
+		<Name>United Arab Emirates dirham</Name>
+		<Location>United Arab Emirates</Location>
+		<Symbol>AED</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>USD</Code>
+		<Name>United States dollar</Name>
+		<Location>United States, American Samoa (AS), Barbados (BB) (as well as Barbados Dollar), Bermuda (BM) (as well as Bermudian Dollar), British Indian Ocean Territory (IO) (also uses GBP), British Virgin Islands (VG), Caribbean Netherlands (BQ - Bonaire, Sint Eustatius and Saba), Ecuador (EC), El Salvador (SV), Guam (GU), Haiti (HT), Marshall Islands (MH), Federated States of Micronesia (FM), Northern Mariana Islands (MP), Palau (PW), Panama (PA), Puerto Rico (PR), Timor-Leste (TL), Turks and Caicos Islands (TC), U.S. Virgin Islands (VI), Zimbabwe (ZW)</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>USN</Code>
+		<Name>United States dollar (next day) (funds code)</Name>
+		<Location>United States</Location>
+		<Symbol>USN</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>USS</Code>
+		<Name>United States dollar (same day) (funds code)</Name>
+		<Location>United States</Location>
+		<Symbol>USS</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>UYI</Code>
+		<Name>Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)</Name>
+		<Location>Uruguay</Location>
+		<Symbol>UYI</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>UYU</Code>
+		<Name>Uruguayan peso</Name>
+		<Location>Uruguay</Location>
+		<Symbol>$</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>UZS</Code>
+		<Name>Uzbekistan som</Name>
+		<Location>Uzbekistan</Location>
+		<Symbol>UZS</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>VUV</Code>
+		<Name>Vanuatu vatu</Name>
+		<Location>Vanuatu</Location>
+		<Symbol>Vt</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>VEF</Code>
+		<Name>Venezuelan bolívar</Name>
+		<Location>Venezuela</Location>
+		<Symbol>Bs F</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>VND</Code>
+		<Name>Vietnamese dong</Name>
+		<Location>Vietnam</Location>
+		<Symbol>VND</Symbol>
+		<NumberToBasic>1</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CHE</Code>
+		<Name>WIR Euro (complementary currency)</Name>
+		<Location>Switzerland</Location>
+		<Symbol>CHE</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>CHW</Code>
+		<Name>WIR Franc (complementary currency)</Name>
+		<Location>Switzerland</Location>
+		<Symbol>CHW</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>YER</Code>
+		<Name>Yemeni rial</Name>
+		<Location>Yemen</Location>
+		<Symbol>YER</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+	<Currency>
+		<Code>ZMW</Code>
+		<Name>Zambian kwacha</Name>
+		<Location>Zambia</Location>
+		<Symbol>ZK</Symbol>
+		<NumberToBasic>100</NumberToBasic>
+	</Currency>
+</Currencies>

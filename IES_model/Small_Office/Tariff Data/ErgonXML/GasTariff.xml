@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<GasTariffs Version="1" MaxId="7">
+	<Tariff>
+		<Id>2</Id>
+		<Name>Commercial Standard Tariff A (£ GBP)</Name>
+		<SupplierId>6</SupplierId>
+		<Currency>GBP</Currency>
+		<Units>kWh</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Description>Daily Standard Tariff</Description>
+		<StandingCharge>
+			<Basis>Daily</Basis>
+			<Charge>0.027</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>Excess</Units>
+			<Rates>0.0297</Rates>
+			<FixedCharges>0</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+	<Tariff>
+		<Id>3</Id>
+		<Name>Commercial Standard Tariff B (£ GBP)</Name>
+		<SupplierId>6</SupplierId>
+		<Currency>GBP</Currency>
+		<Units>kWh</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Description>Monthly Standard Tariff</Description>
+		<StandingCharge>
+			<Basis>Monthly</Basis>
+			<Charge>9.80</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>Excess</Units>
+			<Rates>0.02435</Rates>
+			<FixedCharges>0.00</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+	<Tariff>
+		<Id>4</Id>
+		<Name>Commercial Standard Tariff C (£ GBP)</Name>
+		<SupplierId>6</SupplierId>
+		<Currency>GBP</Currency>
+		<Units>kWh</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Description>Tiered Standard Tariff</Description>
+		<StandingCharge>
+			<Basis>Monthly</Basis>
+			<Charge>0</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>2680,Excess</Units>
+			<Rates>0.062738,0.03247</Rates>
+			<FixedCharges>0.00,0</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+	<Tariff>
+		<Id>5</Id>
+		<Name>Commercial Standard Tariff A ($ USD)</Name>
+		<SupplierId>6</SupplierId>
+		<Currency>USD</Currency>
+		<Units>kWh</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Description>Daily Standard Tariff</Description>
+		<StandingCharge>
+			<Basis>Daily</Basis>
+			<Charge>0.042838</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>Excess</Units>
+			<Rates>0.047121</Rates>
+			<FixedCharges>0</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+	<Tariff>
+		<Id>6</Id>
+		<Name>Commercial Standard Tariff B ($ USD)</Name>
+		<SupplierId>6</SupplierId>
+		<Currency>USD</Currency>
+		<Units>kWh</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Description>Monthly Standard Tariff</Description>
+		<StandingCharge>
+			<Basis>Monthly</Basis>
+			<Charge>15.55</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>Excess</Units>
+			<Rates>0.038633</Rates>
+			<FixedCharges>0.00</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+	<Tariff>
+		<Id>7</Id>
+		<Name>Commercial Standard Tariff C ($ USD)</Name>
+		<SupplierId>6</SupplierId>
+		<Currency>USD</Currency>
+		<Units>kWh</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Description>Tiered Standard Tariff</Description>
+		<StandingCharge>
+			<Basis>Monthly</Basis>
+			<Charge>0</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>2680,Excess</Units>
+			<Rates>0.099539,0.05152</Rates>
+			<FixedCharges>0.00,0</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+</GasTariffs>

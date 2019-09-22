@@ -1,0 +1,695 @@
+body
+{
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 2px 0px 0px;
+    color: #777977;
+    padding-top: 0px;
+    text-align: left;
+    width:870px;
+}
+
+.hiddentext
+{
+   display:none;
+}
+
+.blockheader
+{
+	background-color: #679C9D;	
+	border-top:0.75em;
+	border-bottom:0.75em;
+	border-left:1em;
+	border-right:1em;
+	border-style:solid;
+	border-color: #679C9D;
+	margin-bottom: 2.1em;
+}
+
+.ieslogo
+{
+	text-align: right;
+	float: right; 
+	background-color: #679C9D;
+}
+
+.logoimg
+{
+	margin-bottom: 0.4em;
+}
+
+.iesheadertext
+{
+	float: left; 
+	background-color: #679C9D;
+}
+
+.iesheaderlink
+{
+	float: left;
+	margin-left: 1em;
+}
+
+.iesheadercontainer
+{
+	margin-left: -1em;
+}
+
+.projectnametext
+{
+	font: 1.5em  Arial, Tahoma, Calibri;
+	font-weight:bold;
+	color: white;
+}
+
+.projectdatetext
+{
+	font: 0.8em  Arial, Tahoma, Calibri;
+	font-weight:bold;
+	margin-top: 0.8em;
+	color: white;
+}
+
+.reporttypetext
+{
+	font: 0.8em  Arial, Tahoma, Calibri;
+	font-style: italic;
+	font-weight:bold;
+	margin-top: 0.8em;
+	color: white;
+}
+
+.iestext
+{
+	font: 0.6em  Arial, Tahoma, Calibri;
+	font-weight:bold;
+	color: white;
+}
+
+/* global margin for the whole document - wrap all content in a div with this as class name */
+.leftmargin
+{
+    margin-left:0.5em;
+}
+
+/* The long pane that has the contents of the report e.g. Ashrae System loads and Summary*/
+.contentsbar
+{
+    color: #006B6E;
+    text-align: left;
+    background-color: #E8E8E8;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+    font: 0.75em  Arial, Tahoma, Calibri;
+}
+
+.contentheading
+{
+    color: #006B6E;
+    font-weight:bold;
+	text-decoration: none;
+}
+
+.contentlinkmargin
+{
+    color: #006B6E;
+    margin-left:0.5em;
+	text-decoration: none;
+}
+
+.contentlink
+{
+    color: #006B6E;
+	text-decoration: none;
+}
+
+.smallnormal
+{
+    font-weight:normal;
+    font: 0.65em Arial, Tahoma, Calibri;
+}
+
+.clearboth
+{
+    clear:both;
+
+}
+
+.rightpanemargins
+{
+    float: left;    
+    margin-top: 0.5em;
+}
+
+.rightpane
+{
+    color: #9D9D9D;   
+    text-align: left;
+    background-color: #E8E8E8;
+    padding:1em;
+
+    width:103px;
+    font-weight:bold;
+    font: normal 0.60em Arial, Tahoma, Calibri;
+}
+
+.rightpanefull
+{
+    color: #9D9D9D;   
+    text-align: left;
+    background-color: #E8E8E8;
+    padding:1em;
+
+    font-weight:bold;
+    font: normal 0.8em Arial, Tahoma, Calibri;
+}
+
+.rightpanefulltable
+{
+    color: #9D9D9D;   
+    text-align: left;
+    background-color: #E8E8E8;
+    padding:1em;
+
+    font-weight:bold;
+    font: normal 0.6em Arial, Tahoma, Calibri;
+}
+
+
+.rightpanecolour
+{
+    color: #9D9D9D;   
+    background-color: #E8E8E8;
+}
+
+/* start of a report section setup for the bitmap and the titlebar */
+.reportsection
+{
+	font: 1.5em Arial, Tahoma, Calibri;
+    color: white;
+    padding-top: 0px;
+    text-align: left;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+	border-bottom: solid #006B6E;
+}
+
+/* The long green pane that has the contents of the report e.g. Ashrae Room loads */
+.reportsectionbar
+{
+    color: #006B6E;   
+    text-align: left;
+    margin-left: 2em;
+    padding:0.25em;
+    margin-bottom: 0.5em;
+    font-weight:bolder;
+    font: 0.75em Arial, Tahoma, Calibri;
+}
+
+.alignleft 
+{
+    float: left;
+}
+
+.alignright 
+{
+    float: right;
+    margin-left: 0.5em;
+}
+
+
+p.titleright
+{
+    float: right;
+    font: normal 1em Arial, Tahoma, Calibri;
+    font-weight:bold;
+    color: #006B6E;
+    margin-top: 12px;
+    text-align: right;
+}
+
+/*images on the main project summary*/
+.modelimage
+{
+    height: 260px;
+    width: 260px;
+}
+
+
+/* Using divs for separation use this*/ 
+.projectdatadefault
+{
+    width:355px;
+    font: 0.75em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    margin-left: 290px;		/* needs to be absolute - X amount above the picturetable pictures */
+    background-color: white;
+    /*margin-bottom: 1em;*/
+    margin-top: 0.5em;
+    /*margin-right: 2em;*/
+}
+
+/* Using divs for separation use this*/ 
+.projectdatafull
+{
+    font: 0.75em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    margin-left: 290px;		/* needs to be absolute - X amount above the picturetable pictures */
+    background-color: white;
+    /*margin-bottom: 1em;*/
+    margin-top: 0.5em;
+	text-align: left;
+    /*margin-right: 2em;*/
+}
+
+.systemnavigatortable 
+{
+    background-color: white;
+    margin-top: 0.5em;
+    width:300px;
+    height:275px;
+    font: normal 9px Arial, Tahoma, Calibri;
+}
+
+.systemtable 
+{
+    font: normal 8px Arial, Tahoma, Calibri;
+	vertical-align: top;
+}
+.projectdatathreecol
+{
+    width:275px;
+	font: 0.75em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    margin-left: 370px;		/* needs to be absolute - X amount above the picturetable pictures */
+    background-color: white;
+    margin-top: 0.5em;
+
+}
+
+.projectdatatitle
+{
+    font-weight:bold;
+	color: #006B6E;
+}
+
+.projectdatacontainer
+{
+    clear:both;
+    margin-top: 0.5em;
+    margin-right: 2em;
+}
+
+.projectdatadescription
+{
+    float: left;
+}
+
+.projectdatavalue
+{
+    float: right;
+    margin-right: 0.5em;
+}
+
+.projectdataspacer
+{
+    margin-top: 3em; /* must be bigger than margin-bottom */
+}
+
+.alternateresulttext
+{
+	color:red;
+}
+
+.alternateresulttextlarge
+{
+	color:red;
+    font: normal 16px Arial, Tahoma, Calibri;
+
+}
+
+div.page
+{
+    page-break-before: always
+}
+
+.cellhi
+{
+    background-color: #FFC2C2;
+}
+
+.celllo
+{
+    background-color: #D8DCFF;
+}
+
+.rowgrey
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    //font-weight:normal;
+    border: white;
+	color:#9D9D9D;
+    background-color: #E8E8E8;
+    border:0px;
+    vertical-align: top;
+}
+
+.rowgreen
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border-color: #EFF8EB;
+    border: white;
+    border:0px solid;
+    background-color: #EFF8EB;
+}
+
+.rowred
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border-color: #FFD9D9;
+    border: white;
+    border:0px solid;
+    background-color: #FFD9D9;
+}
+
+.applybutton
+{
+	color:#050;   
+	font: normal 8px Arial, Tahoma, Calibri;   
+	background-color:#FFE3E6;   
+}
+
+.editred
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border-color: #FFD9D9;
+    border: white;
+    border:0px solid;
+    background-color: #FFD9D9;
+    text-align: center;
+}
+
+.editnormal
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border: white;
+    border:0px solid;
+	color: #777977;
+	text-align: right;
+}
+
+.coolSupVol
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border: white;
+    border:0px solid;
+	color: #777977;
+	text-align: center;
+}
+
+.coolFlowArea
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border: white;
+    border:0px solid;
+	color: #777977;
+	text-align: center;
+}
+
+.coolACHr
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border: white;
+    border:0px solid;
+	color: #777977;
+	text-align: center;
+}
+
+.coolPercentOA
+{
+   font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border: white;
+    border:0px solid;
+	color: #777977;
+	text-align: center;
+}
+
+.heatACHr
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border: white;
+    border:0px solid;
+	color: #777977;
+	text-align: center;
+}
+
+.heatFlowArea
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border: white;
+    border:0px solid;
+	color: #777977;
+	text-align: center;
+}
+
+.heatSupVol
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border: white;
+    border:0px solid;
+	color: #777977;
+	text-align: center;
+}
+
+.heatPercentOA
+{
+   font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border: white;
+    border:0px solid;
+	color: #777977;
+	text-align: center;
+}
+
+.coolSensLoad
+{
+	font: 1px Arial;
+   color: white;
+   background-color: white;
+}
+
+.heatSensLoad
+{
+	font: 1px Arial;
+   color: white;
+   background-color: white;
+}
+
+.editgreen
+{
+    font: 1em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    border-color: #EFF8EB;
+    border: white;
+    border:0px solid;
+    background-color: #EFF8EB;
+    text-align: center;
+}
+
+td.rowcopyright
+{
+   border-color: #DCE4DD;
+   background-color: #DCE4DD;
+   font: normal 0.2em Arial, Tahoma, Calibri;
+}
+
+td#rowcopyright
+{
+	color: #9D9D9D;
+    border-color: #E8E8E8;
+   background-color: #E8E8E8;
+   font: normal 8px Arial, Tahoma, Calibri;
+
+}
+
+table.borderlight * td { border: 1px solid #f6f6f6; }
+table.borderlight * th { border: 1px solid #f6f6f6; }
+
+.rowborder
+{
+    border-color: #DCE4DD;
+   border:1px solid;
+}
+
+.bold
+{
+    font-weight:bold;
+}
+
+.fontNormal
+{
+    font-weight:normal;
+}
+
+.textAlignLeft
+{
+    text-align: left;
+}
+
+.textAlignTopLeft
+{
+    text-align: left;
+    vertical-align: top;
+}
+
+.textAlignTop
+{
+    vertical-align: top;
+}
+
+.verticaltext
+{
+    font: 12px Arial, Tahoma, Calibri;
+    background-color: #CACCCC;
+    border-color: white;
+    color: white;
+	text-align:center;
+    writing-mode: tb-rl;
+    /*filter: flipV flipH;*/
+}
+
+.navigatortext
+{
+    width: -10px;
+    font: normal 14px Arial, Tahoma, Calibri;
+    background-color: #DCE4DD;
+    border-color: white;
+    color: white;
+    writing-mode: tb-rl;
+    /*filter: flipV flipH;*/
+}
+
+.picturetable 
+{
+    background-color: white;
+    margin-top: 0.5em;
+    width:270px;
+    height:270px;
+    font: normal 9px Arial, Tahoma, Calibri;
+}
+
+.threecoltable
+{
+    float:left;
+    margin-top: 0.5em;
+    width:350px;
+    font: normal 8px Arial, Tahoma, Calibri;
+    text-color: grey;
+    border:0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+th, td
+{
+
+    text-color: grey;
+    text-align:center;
+}
+
+
+.tableseparator
+{
+    margin-top: 1em;
+}
+
+table
+{
+    border-collapse: collapse;
+    table-layout:fixed; 
+    width:100%; 
+    word-wrap:break-word;
+}
+
+.fulltablewithgrey  
+{
+    background-color: white;
+    width:100%;
+	text-align: center;
+}
+
+.twocoltable
+{
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+    width: 400px;
+    font: normal 8px Arial, Tahoma, Calibri;
+    text-color: grey;
+    border:0px;
+    border-spacing: 0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+.fullwidthtable
+{
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+
+    font: normal 8px Arial, Tahoma, Calibri;
+    text-color: grey;
+    border:0px;
+    border-spacing: 0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+.tableinnav
+{
+    font: 0.65em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    text-color: grey;
+    border:0px;
+    border-spacing: 0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+.fullwidthtablewithnavigator
+{
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+
+    width: 730px;
+    font: 0.65em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    text-color: grey;
+    border:0px;
+    border-spacing: 0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+.fullpagewidthtable
+{
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+
+    font: 0.65em Arial, Tahoma, "MS Sans Serif", Tahoma, "Lucida Sans Unicode", "Arial Black",  Calibri;
+    text-color: grey;
+    border:0px;
+    border-spacing: 0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+th.sortable 
+{
+    font-weight:normal;
+    text-align:center;
+    /*margin: 20px auto 10px auto;*/
+
+}
+
+.tabletitle
+{
+    font: normal 14px Arial, Tahoma, Calibri;
+    background-color: #CCCCCC;
+    /*background-color: red;*/
+    border-color: white;
+    color: white;
+}

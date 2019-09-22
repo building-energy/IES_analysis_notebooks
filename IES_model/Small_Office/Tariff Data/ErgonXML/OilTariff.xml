@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<OilTariffs Version="1" MaxId="3">
+	<Tariff>
+		<Id>2</Id>
+		<Name>Commercial Standard Tariff (£ GBP)</Name>
+		<SupplierId>7</SupplierId>
+		<Currency>GBP</Currency>
+		<Units>Litres</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Grade>Gas oil 35 sec</Grade>
+		<CalorificValue>46200</CalorificValue>
+		<RelativeDensity>0.8</RelativeDensity>
+		<Description>Tariff Description</Description>
+		<StandingCharge>
+			<Basis>Daily</Basis>
+			<Charge>0</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>Excess</Units>
+			<Rates>0.0406</Rates>
+			<FixedCharges>0.00</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+	<Tariff>
+		<Id>3</Id>
+		<Name>Commercial Standard Tariff ($ USD)</Name>
+		<SupplierId>7</SupplierId>
+		<Currency>USD</Currency>
+		<Units>Litres</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Grade>Gas oil 35 sec</Grade>
+		<CalorificValue>46200</CalorificValue>
+		<RelativeDensity>0.8</RelativeDensity>
+		<Description>Tariff Description</Description>
+		<StandingCharge>
+			<Basis>Daily</Basis>
+			<Charge>0</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>Excess</Units>
+			<Rates>0.064415</Rates>
+			<FixedCharges>0.00</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+</OilTariffs>

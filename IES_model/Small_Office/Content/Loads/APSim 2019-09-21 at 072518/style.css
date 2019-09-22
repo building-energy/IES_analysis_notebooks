@@ -1,0 +1,556 @@
+body
+{
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 2px 0px 0px;
+    color: #868A8E;
+    padding-top: 0px;
+    text-align: left;
+    width:780px;
+}
+
+.hiddentext
+{
+   color: white;
+   background-color: white;
+}
+
+/* global margin for the whole document - wrap all content in a div with this as class name */
+.leftmargin
+{
+    margin-left:0.5em;
+}
+
+.threecontentmargin
+{
+	margin-top:0.5em;
+    margin-left:7em;
+}
+.resultmargin
+{
+    margin-left:35px;
+}
+
+.resultmarginclimate
+{
+    margin-left:40px;
+}
+
+.resultmarginclimatesub
+{
+    margin-left:30px;
+}
+
+.resultmarginenergy
+{
+    margin-left:15px;
+}
+
+.resultmargincarbon
+{
+    margin-left:30px;
+}
+
+/* The long pane that has the contents of the report e.g. Ashrae System loads and Summary*/
+.contentsbar
+{
+    color: #194359;
+    text-align: left;
+    background-color: #194359;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+    font: 0.75em  Arial, Tahoma, Calibri;
+}
+
+.contentheading
+{
+	margin-top:0.5em;
+	color: #194359;
+    font-weight:bold;
+	text-decoration: none;
+}
+
+.contentlink
+{
+    color: #194359;
+	text-decoration: none;
+}
+
+.smallnormal
+{
+    font-weight:normal;
+    font: 0.65em  Arial, Tahoma, Calibri;
+}
+
+.clearboth
+{
+    clear:both;
+}
+
+.clearleft
+{
+    clear:right;
+}
+
+.clearright
+{
+    clear:right;
+}
+
+.rightpanemargins
+{
+    float: right;
+}
+
+.rightpane
+{
+    color: #868A8E;   
+    text-align: left;
+    background-color: #DCE4DD;
+    padding:1em;
+
+    width:133px;
+    font-weight:bold;
+    font: normal 0.60em Arial, Tahoma, Calibri;
+}
+
+.alignrightpane
+{
+	float: right;
+    color: #868A8E;   
+    text-align: left;
+    background-color: #DCE4DD;
+    padding:1em;
+
+    width:103px;
+    font-weight:bold;
+    font: normal 0.60em Arial, Tahoma, Calibri;
+}
+
+/* start of a report section setup for the bitmap and the titlebar */
+.reportsection
+{
+	font: 1.5em Arial, Tahoma, Calibri;
+    color: white;
+    padding-top: 0px;
+    text-align: left;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+	border-bottom: solid #194359;
+}
+
+/* The long green pane that has the contents of the report e.g. Ashrae Room loads */
+.reportsectionbar
+{
+	color: #194359;   
+    text-align: left;
+    margin-left: 2em;
+    padding:0.25em;
+    margin-bottom: 0.5em;
+    font-weight:bolder;
+    font: 0.75em Arial, Tahoma, Calibri;
+}
+
+.alignleft 
+{
+    float: left;
+}
+
+.alignright 
+{
+    float: right;
+    margin-left: 0.5em;
+}
+
+
+p.titleright
+{
+    float: right;
+    font: normal 1em Arial, Tahoma, Calibri;
+    font-weight:bold;
+    color: #194359;
+    margin-top: 12px;
+    text-align: right;
+}
+
+/*images on the main project summary*/
+.modelimage
+{
+    height: 260px;
+    width: 260px;
+}
+
+
+/* Using divs for separation use this*/ 
+.projectdatadefault
+{
+    width:310px;
+    font: normal 9px Arial, Tahoma, Calibri;
+    margin-left: 320px;		/* needs to be absolute - X amount above the picturetable pictures */
+    background-color: white;
+    margin-bottom: 2em;
+    margin-top: 0.5em;
+    margin-right: 2em;
+}
+
+.projectdatathreecol
+{
+    width:260px;
+    font: normal 9px Arial, Tahoma, Calibri;
+    margin-left: 370px;		/* needs to be absolute - X amount above the picturetable pictures */
+    background-color: white;
+    margin-bottom: 2em;
+    margin-top: 0.5em;
+    margin-right: 2em;
+}
+
+.projectdatatitle
+{
+    font-weight:bold;
+	color: #194359;
+}
+
+.projectdatacontainer
+{
+    clear:both;
+    background-color: white;
+    margin-top: 0.5em;
+    margin-right: 2em;
+}
+
+.projectdatadescription
+{
+    float: left;
+}
+
+.projectdatadescriptiontitle
+{
+    float: left;
+	margin-left: 200px;		
+}
+
+.projectdatavalue
+{
+    float: right;
+    margin-right: 0.5em;
+}
+
+.projectdataspacer
+{
+    margin-top: 3em; /* must be bigger than margin-bottom */
+}
+
+.vewaredatadefault
+{
+    width:200px;
+    font: normal 9px Arial, Tahoma, Calibri;
+    margin-left: 50px;		/* needs to be absolute - X amount above the picturetable pictures */
+    background-color: white;
+    margin-bottom: 2em;
+    /*margin-top: 0.5em;*/
+    margin-right: 2em;
+}
+
+.leftcolumn
+{
+	float: left;
+	width: 25%;
+}
+
+.resultstable
+{	
+	float: left;
+	width: 530px;
+	margin-top: 0.5em;
+    margin-left:3.5em;
+    font: normal 12px Arial, Tahoma, Calibri;
+    text-color: grey;
+    text-align:left;
+    font-weight:normal;
+}
+
+.rightcolumn
+{
+	float: right;
+    color: #868A8E;   
+    text-align: left;
+    background-color: #DCE4DD;
+    padding:1em;
+    width:103px;
+    font-weight:bold;
+    font: normal 0.60em Arial, Tahoma, Calibri;
+}
+
+div.page
+{
+    page-break-before: always
+}
+
+.rowgrey
+{
+    font: normal 8px Arial, Tahoma, Calibri;
+    //font-weight:normal;
+    border: white;
+    background-color: #DCE4DD;
+    border:0px;
+    vertical-align: top;
+}
+
+.rowgreen
+{
+    font: normal 8px Arial, Tahoma, Calibri;
+    border-color: #C8DF8E;
+    border: white;
+    border:0px solid;
+    background-color: #C8DF8E;
+}
+
+.rowred
+{
+    font: normal 8px Arial, Tahoma, Calibri;
+    border-color: #FFE3E6;
+    border: white;
+    border:0px solid;
+    background-color: #FFE3E6;
+}
+
+.applybutton
+{
+    font: normal 8px Arial, Tahoma, Calibri;
+    border-color: #FFE3E6;
+    border: white;
+    border:0px solid;
+    background-color: #FFE3E6;
+    text-align:left;
+    line-height: 70%;
+
+}
+
+.editred
+{
+    font: normal 8px Arial, Tahoma, Calibri;
+    border-color: #FFE3E6;
+    border: white;
+    border:0px solid;
+    background-color: #FFE3E6;
+    text-align: center;
+}
+
+.textred
+{
+	color: red;
+}
+
+.columngreen
+{
+    background-color: #C8DF8E;
+
+}
+
+.cellgreen
+{
+    background-color: #C8DF8E;
+}
+
+.editgreen
+{
+    font: normal 8px Arial, Tahoma, Calibri;
+    border-color: #C8DF8E;
+    border: white;
+    border:0px solid;
+    background-color: #C8DF8E;
+    text-align: center;
+}
+
+td.rowcopyright
+{
+   border-color: #DCE4DD;
+   background-color: #DCE4DD;
+   font: normal 8px Arial, Tahoma, Calibri;
+}
+
+td#rowcopyright
+{
+    border-color: #DCE4DD;
+   background-color: #DCE4DD;
+   font: normal 8px Arial, Tahoma, Calibri;
+
+}
+
+.rowborder
+{
+    border-color: #DCE4DD;
+   border:1px solid;
+}
+
+.bold
+{
+    font-weight:bold;
+}
+
+.fontNormal
+{
+    font-weight:normal;
+}
+
+.textAlignLeft
+{
+    text-align: left;
+}
+
+.textAlignRight
+{
+    text-align: right;
+}
+.textAlignTopLeft
+{
+    text-align: left;
+    vertical-align: top;
+}
+
+.textAlignTop
+{
+    vertical-align: top;
+}
+
+.verticaltext
+{
+    font: normal 14px Arial, Tahoma, Calibri;
+    background-color: #DCE4DD;
+    border-color: white;
+    color: white;
+    writing-mode: tb-rl;
+    /*filter: flipV flipH;*/
+}
+
+.navigatortext
+{
+    width: -10px;
+    font: normal 14px Arial, Tahoma, Calibri;
+    background-color: #DCE4DD;
+    border-color: white;
+    color: white;
+    writing-mode: tb-rl;
+    /*filter: flipV flipH;*/
+}
+
+.picturetable 
+{
+    background-color: white;
+    margin-top: 0.5em;
+    width:275px;
+    height:275px;
+    font: normal 9px Arial, Tahoma, Calibri;
+}
+
+.threecoltable
+{
+    float:left;
+    margin-top: 0.5em;
+    width:350px;
+    font: normal 8px Arial, Tahoma, Calibri;
+    text-color: grey;
+    border:0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+.tableseparator
+{
+    margin-top: 1em;
+}
+
+table
+{
+    border-collapse: collapse;
+    table-layout:fixed; 
+    width:100%; 
+    word-wrap:break-word;
+}
+.twocoltable
+{
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+
+   // width:50%;
+    width: 400px;
+    font: normal 8px Arial, Tahoma, Calibri;
+    text-color: grey;
+    border:0px;
+    border-spacing: 0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+.fullwidthtable
+{
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+    font: normal 8px Arial, Tahoma, Calibri;
+    text-color: grey;
+    border:0px;
+    border-spacing: 0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+.fullwidthtablenavigator
+{
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+
+    //width:80%;
+    width: 730px;
+    font: normal 8px Arial, Tahoma, Calibri;
+    text-color: grey;
+    border:0px;
+    border-spacing: 0px;
+    text-align:center;
+    font-weight:normal;
+}
+
+th.sortable 
+{
+    font-weight:normal;
+    text-align:center;
+    /*margin: 20px auto 10px auto;*/
+
+}
+
+th, td
+{
+
+    text-color: grey;
+    /*border:1px solid;*/
+    text-align:center;
+    /*margin: 20px auto 10px auto;*/
+}
+
+.tabletitle
+{
+    font: normal 14px Arial, Tahoma, Calibri;
+    background-color: #DCE4DD;
+    border-color: white;
+    color: white;
+}
+
+.mainresulttext
+{
+   font: normal 15px Arial, Tahoma, Calibri;
+
+}
+
+.mainsubresulttext
+{
+   font: normal 13px Arial, Tahoma, Calibri;
+}
+
+.mainsubsubresulttext
+{
+   font: normal 11px Arial, Tahoma, Calibri;
+}
+.resultspace
+{
+   height:8px;
+}

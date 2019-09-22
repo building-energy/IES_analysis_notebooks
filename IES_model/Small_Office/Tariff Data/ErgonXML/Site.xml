@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Site Version="1">
+	<MaxPowerDemand>121</MaxPowerDemand>
+	<UsePeakfromProfile>true</UsePeakfromProfile>
+	<Substation>Glasgow</Substation>
+	<PropNo>45</PropNo>
+	<ZipPostCode>G20 0SP</ZipPostCode>
+	<Address>IES Ltd., Helix Building, Kelvin Campus, West of Scotland Science Park, Glasgow, G20 0SP, UK</Address>
+	<DefaultPowerFactor>0.74</DefaultPowerFactor>
+	<Category>Non Domestic</Category>
+	<Company>IES Ltd.</Company>
+	<Name>IES Glasgow</Name>
+</Site>

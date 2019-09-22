@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<CoalTariffs Version="1" MaxId="3">
+	<Tariff>
+		<Id>2</Id>
+		<Name>Commercial Standard Tariff (£ GBP)</Name>
+		<SupplierId>8</SupplierId>
+		<Currency>GBP</Currency>
+		<Units>Metric tons</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Grade>Anthracite</Grade>
+		<CalorificValue>32000</CalorificValue>
+		<Description />
+		<StandingCharge>
+			<Basis>Monthly</Basis>
+			<Charge>0</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>Excess</Units>
+			<Rates>0.0286</Rates>
+			<FixedCharges>0.00</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+	<Tariff>
+		<Id>3</Id>
+		<Name>Commercial Standard Tariff ($ USD)</Name>
+		<SupplierId>8</SupplierId>
+		<Currency>USD</Currency>
+		<Units>Metric tons</Units>
+		<BillingPeriod>Monthly</BillingPeriod>
+		<Grade>Anthracite</Grade>
+		<CalorificValue>32000</CalorificValue>
+		<Description />
+		<StandingCharge>
+			<Basis>Monthly</Basis>
+			<Charge>0</Charge>
+			<MinMonthly>0</MinMonthly>
+		</StandingCharge>
+		<Blocks>
+			<Units>Excess</Units>
+			<Rates>0.045376</Rates>
+			<FixedCharges>0.00</FixedCharges>
+		</Blocks>
+		<SeasonalPriceFactors>1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00</SeasonalPriceFactors>
+	</Tariff>
+</CoalTariffs>

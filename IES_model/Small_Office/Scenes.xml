@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Tab Select_Tab_ID="{06f7ce7a-efb6-4571-b040-95437c9bfff3}" />
+<Scene ID="{06f7ce7a-efb6-4571-b040-95437c9bfff3}" Name="Scene">
+	<Ground_Options Grid="false" Plane="true" />
+	<Render_Options View_Mode="0" Removal="true" Opaque="false" />
+	<Display_Options Components="true" Room_Name="false" Model_Edge="true" Comp_Edge="true">
+		<Model_Edge_Effects Extensions="false" End_Pts="false" Jitter="0" Sketchiness="50" />
+	</Display_Options>
+	<Sky_Options Enabled="true" Index="0" Col_Red="1.000000" Col_Green="1.000000" Col_Blue="1.000000" Col_Alpha="1.000000" />
+	<Shadow_Options Model="false" Component="false" Month="4" Day="1" Hour="5" Minute="58" />
+	<SolarArc_Options Model="false" Index="0" />
+	<Animation_Options IsAnimated="false" Mode="0" />
+	<CoordCamera_Options CameraType="0" CameraProj="true">
+		<CameraPos x="0" y="62.400001525878906" z="0" />
+		<CameraRot x="-0.040036916732788086" y="0.46234577894210815" z="0.020902968943119049" w="0.88556200265884399" />
+		<CameraOff x="0" y="0" z="597.892578125" />
+	</CoordCamera_Options>
+</Scene>

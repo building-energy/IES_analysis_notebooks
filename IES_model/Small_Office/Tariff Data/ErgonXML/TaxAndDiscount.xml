@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<TaxesAndDiscounts Version="1" MaxId="1">
+	<TaxAndDiscount>
+		<Id>1</Id>
+		<Name>Disc1</Name>
+		<Type>Discount</Type>
+		<IsApplicableToElectricity>true</IsApplicableToElectricity>
+		<IsApplicableToGas>true</IsApplicableToGas>
+		<IsApplicableOil>false</IsApplicableOil>
+		<IsApplicableCoal>true</IsApplicableCoal>
+		<Rate>1.5</Rate>
+		<Scope>Tariffs</Scope>
+		<Assignments>
+			<Tariffs>
+				<Tariff>
+					<TariffId>13</TariffId>
+					<Utility>Electricity</Utility>
+				</Tariff>
+				<Tariff>
+					<TariffId>2</TariffId>
+					<Utility>Gas</Utility>
+				</Tariff>
+			</Tariffs>
+			<Suppliers />
+		</Assignments>
+	</TaxAndDiscount>
+</TaxesAndDiscounts>

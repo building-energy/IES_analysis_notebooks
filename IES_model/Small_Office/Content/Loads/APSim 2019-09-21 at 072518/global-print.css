@@ -1,0 +1,152 @@
+BODY
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 2px 0px 0px;
+    FONT: 0.75em Arial, Helvetica, sans-serif;
+    COLOR: #777977;
+    PADDING-TOP: 0px;
+    TEXT-ALIGN: left
+}
+td.coloured
+{
+color:white;
+Background-color: #EDB3B2
+}
+td.normal
+{
+Background-color: white
+}
+td.bold
+{
+font-weight: bold
+}
+TABLE
+{
+    FONT: 1em Arial, Helvetica, sans-serif
+}
+INPUT
+{
+    BORDER-RIGHT: #d3d7d7 1px solid;
+    BORDER-TOP: #d3d7d7 1px solid;
+    FONT-WEIGHT: bold;
+    BACKGROUND: #fff;
+    BORDER-LEFT: #d3d7d7 1px solid;
+    WIDTH: 225px;
+    BORDER-BOTTOM: #d3d7d7 1px solid
+}
+button.noprint
+{
+display: none
+}
+H3
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 10px 0px 0px;
+    FONT: 1.5em Arial, Helvetica, sans-serif;
+    COLOR: #57ad40;
+    PADDING-TOP: 0px
+}
+A
+{
+    COLOR: #727272;
+    TEXT-DECORATION: underline
+}
+A:active
+{
+    COLOR: #727272;
+    TEXT-DECORATION: underline
+}
+A:hover
+{
+    COLOR: #57ad40;
+    TEXT-DECORATION: underline
+}
+IMG.floatright
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FLOAT: right;
+    MARGIN: 5px 0px 0px 10px;
+    BORDER-LEFT: medium none;
+    BORDER-BOTTOM: medium none
+}
+IMG.floatleft
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FLOAT: left;
+    MARGIN: 5px 10px 0px 0px;
+    BORDER-LEFT: medium none;
+    BORDER-BOTTOM: medium none
+}
+IMG.floatleft2
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FLOAT: left;
+    MARGIN: 5px 5px 0px 0px;
+    BORDER-LEFT: medium none;
+    BORDER-BOTTOM: medium none
+}
+IMG
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    BORDER-LEFT: medium none;
+    BORDER-BOTTOM: medium none
+}
+FORM
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px
+}
+FORM A
+{
+    COLOR: red
+}
+LABEL
+{
+    FONT-WEIGHT: bold;
+    FLOAT: left;
+    WIDTH: 125px
+}
+P
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px
+}
+H2
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 10px 0px 0px;
+    FONT: 1.7em Arial, Helvetica, sans-serif;
+    COLOR: #57ad40;
+    PADDING-TOP: 0px
+}
+H1
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 10px 0px 0px;
+    FONT: 2em Arial, Helvetica, sans-serif;
+    COLOR: #57ad40;
+    PADDING-TOP: 0px
+}
+DIV.page
+{
+    page-break-before: always
+}
+

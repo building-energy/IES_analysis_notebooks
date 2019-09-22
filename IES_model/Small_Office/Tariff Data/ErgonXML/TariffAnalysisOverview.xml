@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Overview Version="1">
+	<EnergyOption>Generic</EnergyOption>
+	<Improvement></Improvement>
+	<TotalCostBaseLine>0.00</TotalCostBaseLine>
+	<TotalCostProposed>6952.93</TotalCostProposed>
+	<Currency>GBP</Currency>
+	<ComparisonProfiles />
+	<BuildingDemandProfile>C:\Users\cvskf\OneDrive - Loughborough University\_Git\building-energy\IES_analysis_notebooks\IES_model\Small_Office\Vista\Small_Office.aps</BuildingDemandProfile>
+	<AnalysisType>Advanced</AnalysisType>
+	<Utilities>
+		<Electricity>
+			<SupplierId>1</SupplierId>
+			<TariffId>21</TariffId>
+			<FlatRate />
+			<CostProposed>6172.50</CostProposed>
+			<CostBenchmark>0.00</CostBenchmark>
+		</Electricity>
+		<Gas>
+			<SupplierId>6</SupplierId>
+			<TariffId>2</TariffId>
+			<FlatRate />
+			<CostProposed>780.43</CostProposed>
+			<CostBenchmark>0.00</CostBenchmark>
+		</Gas>
+		<Oil>
+			<SupplierId>7</SupplierId>
+			<TariffId>2</TariffId>
+			<FlatRate />
+			<CostProposed>0.00</CostProposed>
+			<CostBenchmark>0.00</CostBenchmark>
+		</Oil>
+		<Coal>
+			<SupplierId>8</SupplierId>
+			<TariffId>2</TariffId>
+			<FlatRate />
+			<CostProposed>0.00</CostProposed>
+			<CostBenchmark>0.00</CostBenchmark>
+		</Coal>
+		<Miscellaneous>
+			<SupplierId>1</SupplierId>
+			<TariffId>21</TariffId>
+			<FlatRate />
+			<CostProposed>0.00</CostProposed>
+			<CostBenchmark>0.00</CostBenchmark>
+		</Miscellaneous>
+		<Renewable>
+			<FlatRate />
+			<CostProposed>0.00</CostProposed>
+			<CostBenchmark>0.00</CostBenchmark>
+		</Renewable>
+	</Utilities>
+</Overview>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Suppliers Version="1" MaxId="8">
+	<Supplier>
+		<Id>1</Id>
+		<Name>Electricity Commercial Supplier</Name>
+		<Code>010</Code>
+		<Address>Glasgow</Address>
+		<ZipPostCode>G1 8QQ</ZipPostCode>
+		<Utility>Electricity</Utility>
+	</Supplier>
+	<Supplier>
+		<Id>4</Id>
+		<Name>Electricity Domestic Supplier</Name>
+		<Code>020</Code>
+		<Address>London</Address>
+		<ZipPostCode>SW1A 1AA</ZipPostCode>
+		<Utility>Electricity</Utility>
+	</Supplier>
+	<Supplier>
+		<Id>6</Id>
+		<Name>Gas Commercial Supplier</Name>
+		<Code>030</Code>
+		<Address>Cardiff</Address>
+		<ZipPostCode>CF8 8LK</ZipPostCode>
+		<Utility>Gas</Utility>
+	</Supplier>
+	<Supplier>
+		<Id>7</Id>
+		<Name>Oil Commercial Supplier</Name>
+		<Code>040</Code>
+		<Address>Belfast</Address>
+		<ZipPostCode>BT1 5GF</ZipPostCode>
+		<Utility>Oil</Utility>
+	</Supplier>
+	<Supplier>
+		<Id>8</Id>
+		<Name>Coal Commercial Supplier</Name>
+		<Code>050</Code>
+		<Address>Edinburgh</Address>
+		<ZipPostCode>EH7 0HG</ZipPostCode>
+		<Utility>Coal</Utility>
+	</Supplier>
+</Suppliers>
