@@ -77,7 +77,7 @@
 		</Reports>
 	</BPRM2010>
 	<BPRM2013>
-		<Reports>	
+		<Reports>
 			<SitePermitSoftware>
 				<Site>
 					<Title></Title>
@@ -245,4 +245,99 @@
 			<Result input="Condenser water loop and pump" pdescription="" pinput="" bdescription="" binput=""/>
 		</HVAC>
 	</Inputs>
+	<BPRM2016>
+		<Reports>
+			<SitePermitSoftware>
+				<Site>
+					<Title></Title>
+					<Address1></Address1>
+					<Address2></Address2>
+					<City></City>
+					<State></State>
+					<ZipCode></ZipCode>
+				</Site>
+				<Permit>
+					<PermitNo></PermitNo>
+					<Date></Date>
+				</Permit>
+				<Software>
+					<Program>Integrated Environmental Solutions</Program>
+					<Program2>Virtual Environment version 2019</Program2>
+				</Software>
+			</SitePermitSoftware>
+			<Owner>
+				<FirstName></FirstName>
+				<LastName></LastName>
+				<Company></Company>
+				<Address1></Address1>
+				<Address2></Address2>
+				<City></City>
+				<State></State>
+				<ZipCode></ZipCode>
+				<PhoneNumber></PhoneNumber>
+				<EMail></EMail>
+			</Owner>
+			<Designer>
+				<FirstName></FirstName>
+				<LastName></LastName>
+				<Company></Company>
+				<Address1></Address1>
+				<Address2></Address2>
+				<City></City>
+				<State></State>
+				<ZipCode></ZipCode>
+				<PhoneNumber></PhoneNumber>
+				<EMail></EMail>
+			</Designer>
+			<Florida>
+				<Description></Description>
+				<Jurisdiction></Jurisdiction>
+				<Class></Class>
+				<BuildingFloorArea></BuildingFloorArea>
+				<NumStories></NumStories>
+			</Florida>
+			<FloridaCertifications>
+				<PreparedBy></PreparedBy>
+				<PreparedByDate></PreparedByDate>
+				<BuildingOfficial></BuildingOfficial>
+				<BuildingOfficialDate></BuildingOfficialDate>
+				<OwnerAgent></OwnerAgent>
+				<OwnerAgentDate></OwnerAgentDate>
+				<Architect></Architect>
+				<ArchitectRegNo></ArchitectRegNo>
+				<ElectricalDesigner></ElectricalDesigner>
+				<ElectricalDesignerRegNo></ElectricalDesignerRegNo>
+				<LightingDesigner></LightingDesigner>
+				<LightingDesignerRegNo></LightingDesignerRegNo>
+				<MechanicalDesigner></MechanicalDesigner>
+				<MechanicalDesignerRegNo></MechanicalDesignerRegNo>
+				<PlumbingDesigner></PlumbingDesigner>
+				<PlumbingDesignerRegNo></PlumbingDesignerRegNo>
+			</FloridaCertifications>
+			<Checklist>
+				<Constructions>
+					<Result input="Shading devices" pdescription="" pinput="" bdescription="" binput=""/>
+				</Constructions>
+				<MEP>
+					<Result input="Other Lighting Controls" pdescription="" pinput="" bdescription="" binput=""/>
+				</MEP>
+				<HVAC>
+					<Result input="Primary HVAC system" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Other HVAC system" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Fan supply power" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Fan power" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Economiser control" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Demand control ventilation" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Unitary equip cooling efficiency" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Unitary equip heating efficiency" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Chiller" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Chilled water loop and pump" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Boiler" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Hot water loop and pump" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Cooling tower" pdescription="" pinput="" bdescription="" binput=""/>
+					<Result input="Condenser water loop and pump" pdescription="" pinput="" bdescription="" binput=""/>
+				</HVAC>
+			</Checklist>
+		</Reports>
+	</BPRM2016>
 </BPRMInputs>
